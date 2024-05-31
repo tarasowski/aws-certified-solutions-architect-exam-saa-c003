@@ -93,7 +93,6 @@ Additionally, Amazon EFS simplifies the management of file storage by abstractin
 
 # EBS vs. EFS
 
-Certainly! Here's a comparison table in Markdown format:
 
 | Feature              | EFS                                          | EBS                                          |
 |----------------------|----------------------------------------------|----------------------------------------------|
