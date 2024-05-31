@@ -91,7 +91,7 @@ Basic settings include Enhanced, Elastic, and Provisioned modes, catering to dif
 Extension:
 Additionally, Amazon EFS simplifies the management of file storage by abstracting the underlying infrastructure complexities, allowing users to focus on their applications. Its multi-AZ architecture ensures data availability and durability, making it suitable for mission-critical workloads. The ability to dynamically scale resources based on demand enables businesses to handle sudden spikes in workload without manual intervention. Furthermore, the integration with AWS KMS ensures compliance with regulatory requirements and enhances data security. Overall, Amazon EFS is a versatile solution that empowers organizations to efficiently manage their file storage needs in the cloud.
 
-EBS vs. EFS
+# EBS vs. EFS
 
 Certainly! Here's a comparison table in Markdown format:
 
