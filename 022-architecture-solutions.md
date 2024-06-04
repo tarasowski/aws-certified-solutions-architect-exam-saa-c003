@@ -1,4 +1,6 @@
-# Event Processing in AWS
+# More Solutions
+
+**Event processing on Lambda**
 
 1. **SQS to Lambda with Dead-Letter Queue (DLQ):** This architecture involves using Amazon Simple Queue Service (SQS) to decouple and buffer events. Messages are then polled from the SQS queue by a Lambda function. If the processing fails, messages are moved to a DLQ to prevent loss and enable debugging and reprocessing.
 
